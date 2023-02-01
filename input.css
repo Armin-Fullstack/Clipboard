@@ -29,3 +29,15 @@ body {
     background-image: url("../Images/bg-header-mobile.png");
 }
 }
+
+.snippets-content-text {
+
+@apply max-w-md text-grayishBlue text-xl
+
+}
+
+.snippets-content-title {
+
+@apply text-2xl font-bold text-darkGrayishBlue
+
+}
