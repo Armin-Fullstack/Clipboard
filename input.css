@@ -7,6 +7,11 @@
     @apply font-bold text-4xl text-darkGrayishBlue md:text-5xl mb-8;
     }
 
+    h5 {
+
+        @apply text-2xl font-bold text-darkGrayishBlue
+    
+    }
 }
 
 
@@ -38,11 +43,5 @@ body {
 .snippets-content-text {
 
 @apply max-w-md text-grayishBlue text-xl
-
-}
-
-.snippets-content-title {
-
-@apply text-2xl font-bold text-darkGrayishBlue
 
 }
